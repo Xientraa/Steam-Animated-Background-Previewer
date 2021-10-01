@@ -51,7 +51,7 @@ GenerateHTML();
 ```
 Copy & paste into the console then hit Enter.
 
-Head back over to your profile, where it says " Input = `` " Paste between the `` by Right click > Paste or by pressing CTRL - V
+Head back over to your profile, where it says " Input = '' " Paste between the '' by Right click > Paste or by pressing CTRL - V
 Have fun!
 
 I hope this guide was good enough, I'm very sleep deprived at the moment.
