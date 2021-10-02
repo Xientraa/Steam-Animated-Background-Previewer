@@ -1,5 +1,6 @@
 # Steam Animated Background Previewer
 A quick JavaScript program which allows you to test out different Animated backgrounds.
+[STEAM GUIDE](https://steamcommunity.com/sharedfiles/filedetails/?id=2616099607)
 
 # How to use
 Go to your Steam Profile on browser.
